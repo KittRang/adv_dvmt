@@ -1,0 +1,3602 @@
+[
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2008,
+   "population": 176376
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2008,
+   "population": 149776
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2008,
+   "population": 193449
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2008,
+   "population": 183836
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2008,
+   "population": 145294
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2008,
+   "population": 152669
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2008,
+   "population": 147482
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2008,
+   "population": 143675
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2008,
+   "population": 164570
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2008,
+   "population": 165438
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2008,
+   "population": 139585
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2008,
+   "population": 163846
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2008,
+   "population": 150286
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2008,
+   "population": 131035
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2008,
+   "population": 147466
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2008,
+   "population": 145671
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2008,
+   "population": 133622
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2008,
+   "population": 116067
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2008,
+   "population": 113008
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2008,
+   "population": 139322
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2008,
+   "population": 121366
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2008,
+   "population": 115685
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2008,
+   "population": 129401
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2008,
+   "population": 129662
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2008,
+   "population": 102963
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2008,
+   "population": 107513
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2008,
+   "population": 115518
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2008,
+   "population": 118412
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2008,
+   "population": 85586
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2008,
+   "population": 87082
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2008,
+   "population": 103852
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2008,
+   "population": 100474
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2008,
+   "population": 116742
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2008,
+   "population": 97794
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2008,
+   "population": 81053
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2008,
+   "population": 101862
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2008,
+   "population": 76948
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2008,
+   "population": 92094
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2008,
+   "population": 72026
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2008,
+   "population": 87386
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2008,
+   "population": 90937
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2008,
+   "population": 78147
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2008,
+   "population": 82824
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2008,
+   "population": 76477
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2008,
+   "population": 78307
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2008,
+   "population": 48506
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2008,
+   "population": 62966
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2008,
+   "population": 60275
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2008,
+   "population": 56464
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2008,
+   "population": 30088
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2009,
+   "population": 178637
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2009,
+   "population": 154766
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2009,
+   "population": 193478
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2009,
+   "population": 185901
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2009,
+   "population": 150492
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2009,
+   "population": 155077
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2009,
+   "population": 152528
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2009,
+   "population": 147668
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2009,
+   "population": 165433
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2009,
+   "population": 164210
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2009,
+   "population": 142772
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2009,
+   "population": 162151
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2009,
+   "population": 150166
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2009,
+   "population": 133149
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2009,
+   "population": 147712
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2009,
+   "population": 142338
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2009,
+   "population": 132670
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2009,
+   "population": 115883
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2009,
+   "population": 114180
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2009,
+   "population": 136696
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2009,
+   "population": 122371
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2009,
+   "population": 115713
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2009,
+   "population": 126823
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2009,
+   "population": 126883
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2009,
+   "population": 103470
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2009,
+   "population": 106963
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2009,
+   "population": 114180
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2009,
+   "population": 114694
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2009,
+   "population": 85912
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2009,
+   "population": 88013
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2009,
+   "population": 102320
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2009,
+   "population": 99561
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2009,
+   "population": 114488
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2009,
+   "population": 96880
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2009,
+   "population": 80674
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2009,
+   "population": 99994
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2009,
+   "population": 76987
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2009,
+   "population": 90559
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2009,
+   "population": 73428
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2009,
+   "population": 85789
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2009,
+   "population": 89294
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2009,
+   "population": 77078
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2009,
+   "population": 80894
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2009,
+   "population": 75493
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2009,
+   "population": 76608
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2009,
+   "population": 47503
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2009,
+   "population": 61374
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2009,
+   "population": 58858
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2009,
+   "population": 54601
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2009,
+   "population": 29283
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2010,
+   "population": 183333
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2010,
+   "population": 160480
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2010,
+   "population": 193190
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2010,
+   "population": 188164
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2010,
+   "population": 155821
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2010,
+   "population": 156567
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2010,
+   "population": 157477
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2010,
+   "population": 151292
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2010,
+   "population": 166354
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2010,
+   "population": 162838
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2010,
+   "population": 145361
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2010,
+   "population": 160451
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2010,
+   "population": 149606
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2010,
+   "population": 135032
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2010,
+   "population": 147030
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2010,
+   "population": 138653
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2010,
+   "population": 131363
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2010,
+   "population": 115966
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2010,
+   "population": 115131
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2010,
+   "population": 134480
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2010,
+   "population": 122520
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2010,
+   "population": 115697
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2010,
+   "population": 124352
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2010,
+   "population": 124499
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2010,
+   "population": 104535
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2010,
+   "population": 106753
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2010,
+   "population": 112908
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2010,
+   "population": 112906
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2010,
+   "population": 86340
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2010,
+   "population": 88578
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2010,
+   "population": 101276
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2010,
+   "population": 98869
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2010,
+   "population": 111496
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2010,
+   "population": 95661
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2010,
+   "population": 80929
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2010,
+   "population": 98870
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2010,
+   "population": 77292
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2010,
+   "population": 89297
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2010,
+   "population": 74592
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2010,
+   "population": 84286
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2010,
+   "population": 88179
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2010,
+   "population": 76233
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2010,
+   "population": 79546
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2010,
+   "population": 74693
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2010,
+   "population": 75621
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2010,
+   "population": 47053
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2010,
+   "population": 60313
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2010,
+   "population": 57368
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2010,
+   "population": 53526
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2010,
+   "population": 28617
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2011,
+   "population": 185987
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2011,
+   "population": 165352
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2011,
+   "population": 192276
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2011,
+   "population": 188252
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2011,
+   "population": 161642
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2011,
+   "population": 158457
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2011,
+   "population": 160850
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2011,
+   "population": 154371
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2011,
+   "population": 166210
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2011,
+   "population": 161409
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2011,
+   "population": 148298
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2011,
+   "population": 158646
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2011,
+   "population": 148645
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2011,
+   "population": 136236
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2011,
+   "population": 146197
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2011,
+   "population": 135001
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2011,
+   "population": 130493
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2011,
+   "population": 115419
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2011,
+   "population": 115823
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2011,
+   "population": 131847
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2011,
+   "population": 122180
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2011,
+   "population": 115083
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2011,
+   "population": 120032
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2011,
+   "population": 121539
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2011,
+   "population": 104768
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2011,
+   "population": 106786
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2011,
+   "population": 111120
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2011,
+   "population": 110481
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2011,
+   "population": 87169
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2011,
+   "population": 88918
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2011,
+   "population": 100319
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2011,
+   "population": 97039
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2011,
+   "population": 108815
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2011,
+   "population": 94482
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2011,
+   "population": 80847
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2011,
+   "population": 96422
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2011,
+   "population": 77720
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2011,
+   "population": 87841
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2011,
+   "population": 75460
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2011,
+   "population": 82481
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2011,
+   "population": 86214
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2011,
+   "population": 72900
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2011,
+   "population": 77471
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2011,
+   "population": 73533
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2011,
+   "population": 73864
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2011,
+   "population": 46087
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2011,
+   "population": 58771
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2011,
+   "population": 54996
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2011,
+   "population": 52093
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2011,
+   "population": 28001
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2012,
+   "population": 188163
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2012,
+   "population": 169729
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2012,
+   "population": 191781
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2012,
+   "population": 189737
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2012,
+   "population": 165693
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2012,
+   "population": 160816
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2012,
+   "population": 163317
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2012,
+   "population": 157224
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2012,
+   "population": 166635
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2012,
+   "population": 160853
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2012,
+   "population": 150285
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2012,
+   "population": 157970
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2012,
+   "population": 148491
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2012,
+   "population": 137295
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2012,
+   "population": 145795
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2012,
+   "population": 132169
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2012,
+   "population": 129800
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2012,
+   "population": 115731
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2012,
+   "population": 116523
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2012,
+   "population": 130202
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2012,
+   "population": 122152
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2012,
+   "population": 114748
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2012,
+   "population": 117950
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2012,
+   "population": 119643
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2012,
+   "population": 105161
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2012,
+   "population": 106532
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2012,
+   "population": 109858
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2012,
+   "population": 109001
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2012,
+   "population": 88471
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2012,
+   "population": 89895
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2012,
+   "population": 99153
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2012,
+   "population": 95855
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2012,
+   "population": 107969
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2012,
+   "population": 93461
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2012,
+   "population": 81755
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2012,
+   "population": 94877
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2012,
+   "population": 78207
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2012,
+   "population": 86643
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2012,
+   "population": 76274
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2012,
+   "population": 81529
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2012,
+   "population": 85048
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2012,
+   "population": 73280
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2012,
+   "population": 76353
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2012,
+   "population": 73084
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2012,
+   "population": 72241
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2012,
+   "population": 46112
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2012,
+   "population": 57831
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2012,
+   "population": 53912
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2012,
+   "population": 50930
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2012,
+   "population": 27426
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2013,
+   "population": 191536
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2013,
+   "population": 174197
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2013,
+   "population": 192119
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2013,
+   "population": 190544
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2013,
+   "population": 169614
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2013,
+   "population": 163485
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2013,
+   "population": 165724
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2013,
+   "population": 159962
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2013,
+   "population": 167827
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2013,
+   "population": 160948
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2013,
+   "population": 151877
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2013,
+   "population": 157156
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2013,
+   "population": 149056
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2013,
+   "population": 138661
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2013,
+   "population": 145822
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2013,
+   "population": 130511
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2013,
+   "population": 129559
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2013,
+   "population": 116688
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2013,
+   "population": 117662
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2013,
+   "population": 128838
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2013,
+   "population": 122441
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2013,
+   "population": 114805
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2013,
+   "population": 117503
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2013,
+   "population": 117536
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2013,
+   "population": 106085
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2013,
+   "population": 106192
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2013,
+   "population": 109049
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2013,
+   "population": 108066
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2013,
+   "population": 90437
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2013,
+   "population": 91358
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2013,
+   "population": 98113
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2013,
+   "population": 95204
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2013,
+   "population": 106811
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2013,
+   "population": 92774
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2013,
+   "population": 82637
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2013,
+   "population": 93508
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2013,
+   "population": 78943
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2013,
+   "population": 85825
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2013,
+   "population": 76787
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2013,
+   "population": 81162
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2013,
+   "population": 83898
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2013,
+   "population": 73550
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2013,
+   "population": 75765
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2013,
+   "population": 72495
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2013,
+   "population": 71087
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2013,
+   "population": 46114
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2013,
+   "population": 56684
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2013,
+   "population": 52613
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2013,
+   "population": 50092
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2013,
+   "population": 26932
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2014,
+   "population": 194511
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2014,
+   "population": 178958
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2014,
+   "population": 191966
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2014,
+   "population": 190659
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2014,
+   "population": 173144
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2014,
+   "population": 166364
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2014,
+   "population": 168309
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2014,
+   "population": 162598
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2014,
+   "population": 168197
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2014,
+   "population": 160366
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2014,
+   "population": 153175
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2014,
+   "population": 156030
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2014,
+   "population": 148964
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2014,
+   "population": 139771
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2014,
+   "population": 145514
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2014,
+   "population": 128995
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2014,
+   "population": 129238
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2014,
+   "population": 118371
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2014,
+   "population": 119349
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2014,
+   "population": 127260
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2014,
+   "population": 122196
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2014,
+   "population": 114245
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2014,
+   "population": 116653
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2014,
+   "population": 115330
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2014,
+   "population": 107140
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2014,
+   "population": 105857
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2014,
+   "population": 107797
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2014,
+   "population": 107221
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2014,
+   "population": 92094
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2014,
+   "population": 92735
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2014,
+   "population": 96787
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2014,
+   "population": 94315
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2014,
+   "population": 104394
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2014,
+   "population": 92448
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2014,
+   "population": 83520
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2014,
+   "population": 92273
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2014,
+   "population": 80002
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2014,
+   "population": 84881
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2014,
+   "population": 77121
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2014,
+   "population": 80843
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2014,
+   "population": 82432
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2014,
+   "population": 73790
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2014,
+   "population": 75224
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2014,
+   "population": 72203
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2014,
+   "population": 70003
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2014,
+   "population": 46472
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2014,
+   "population": 55373
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2014,
+   "population": 51557
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2014,
+   "population": 49280
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2014,
+   "population": 26359
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2015,
+   "population": 197715
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2015,
+   "population": 184306
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2015,
+   "population": 192281
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2015,
+   "population": 190483
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2015,
+   "population": 176724
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2015,
+   "population": 169212
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2015,
+   "population": 170070
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2015,
+   "population": 165281
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2015,
+   "population": 168278
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2015,
+   "population": 159514
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2015,
+   "population": 154389
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2015,
+   "population": 155048
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2015,
+   "population": 149102
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2015,
+   "population": 140702
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2015,
+   "population": 144661
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2015,
+   "population": 127716
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2015,
+   "population": 128461
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2015,
+   "population": 120136
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2015,
+   "population": 120613
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2015,
+   "population": 125964
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2015,
+   "population": 121843
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2015,
+   "population": 113521
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2015,
+   "population": 115202
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2015,
+   "population": 113338
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2015,
+   "population": 107397
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2015,
+   "population": 105613
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2015,
+   "population": 106657
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2015,
+   "population": 106233
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2015,
+   "population": 94242
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2015,
+   "population": 93854
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2015,
+   "population": 95478
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2015,
+   "population": 93297
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2015,
+   "population": 101576
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2015,
+   "population": 92197
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2015,
+   "population": 84214
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2015,
+   "population": 91405
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2015,
+   "population": 80735
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2015,
+   "population": 84157
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2015,
+   "population": 77604
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2015,
+   "population": 80211
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2015,
+   "population": 81745
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2015,
+   "population": 73597
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2015,
+   "population": 74796
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2015,
+   "population": 71864
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2015,
+   "population": 69349
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2015,
+   "population": 46777
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2015,
+   "population": 53899
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2015,
+   "population": 50673
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2015,
+   "population": 48585
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2015,
+   "population": 25694
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2016,
+   "population": 200374
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2016,
+   "population": 189507
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2016,
+   "population": 192413
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2016,
+   "population": 190828
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2016,
+   "population": 179768
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2016,
+   "population": 172761
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2016,
+   "population": 171933
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2016,
+   "population": 167844
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2016,
+   "population": 168896
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2016,
+   "population": 158130
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2016,
+   "population": 155229
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2016,
+   "population": 153668
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2016,
+   "population": 148392
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2016,
+   "population": 141214
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2016,
+   "population": 144449
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2016,
+   "population": 126136
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2016,
+   "population": 127582
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2016,
+   "population": 121740
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2016,
+   "population": 120976
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2016,
+   "population": 123966
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2016,
+   "population": 121000
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2016,
+   "population": 112849
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2016,
+   "population": 112581
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2016,
+   "population": 111027
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2016,
+   "population": 107136
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2016,
+   "population": 105289
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2016,
+   "population": 105588
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2016,
+   "population": 104211
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2016,
+   "population": 95369
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2016,
+   "population": 94982
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2016,
+   "population": 93771
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2016,
+   "population": 92023
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2016,
+   "population": 98450
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2016,
+   "population": 91305
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2016,
+   "population": 84528
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2016,
+   "population": 90377
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2016,
+   "population": 81190
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2016,
+   "population": 83248
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2016,
+   "population": 77890
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2016,
+   "population": 79574
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2016,
+   "population": 80497
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2016,
+   "population": 72436
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2016,
+   "population": 73871
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2016,
+   "population": 72102
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2016,
+   "population": 67887
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2016,
+   "population": 47308
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2016,
+   "population": 52522
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2016,
+   "population": 49594
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2016,
+   "population": 47450
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2016,
+   "population": 24785
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2017,
+   "population": 202590
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2017,
+   "population": 193930
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2017,
+   "population": 193002
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2017,
+   "population": 190681
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2017,
+   "population": 182235
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2017,
+   "population": 175656
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2017,
+   "population": 173987
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2017,
+   "population": 170643
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2017,
+   "population": 168973
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2017,
+   "population": 156684
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2017,
+   "population": 155722
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2017,
+   "population": 152315
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2017,
+   "population": 147800
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2017,
+   "population": 141750
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2017,
+   "population": 143835
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2017,
+   "population": 125440
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2017,
+   "population": 126824
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2017,
+   "population": 122534
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2017,
+   "population": 121833
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2017,
+   "population": 122563
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2017,
+   "population": 120394
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2017,
+   "population": 112116
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2017,
+   "population": 112046
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2017,
+   "population": 109482
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2017,
+   "population": 107118
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2017,
+   "population": 105299
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2017,
+   "population": 104701
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2017,
+   "population": 102945
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2017,
+   "population": 96751
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2017,
+   "population": 95537
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2017,
+   "population": 92325
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2017,
+   "population": 90852
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2017,
+   "population": 95852
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2017,
+   "population": 90534
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2017,
+   "population": 84967
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2017,
+   "population": 89358
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2017,
+   "population": 81515
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2017,
+   "population": 82545
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2017,
+   "population": 78187
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2017,
+   "population": 78797
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2017,
+   "population": 79624
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2017,
+   "population": 72304
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2017,
+   "population": 73263
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2017,
+   "population": 70238
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2017,
+   "population": 67768
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2017,
+   "population": 47817
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2017,
+   "population": 51231
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2017,
+   "population": 49121
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2017,
+   "population": 46581
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2017,
+   "population": 24150
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2018,
+   "population": 204532
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2018,
+   "population": 198019
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2018,
+   "population": 193315
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2018,
+   "population": 191323
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2018,
+   "population": 183878
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2018,
+   "population": 178290
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2018,
+   "population": 175662
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2018,
+   "population": 172990
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2018,
+   "population": 169259
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2018,
+   "population": 155923
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2018,
+   "population": 156267
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2018,
+   "population": 151174
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2018,
+   "population": 146841
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2018,
+   "population": 142311
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2018,
+   "population": 142990
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2018,
+   "population": 125299
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2018,
+   "population": 125981
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2018,
+   "population": 123026
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2018,
+   "population": 122296
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2018,
+   "population": 120761
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2018,
+   "population": 119709
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2018,
+   "population": 111293
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2018,
+   "population": 110417
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2018,
+   "population": 107754
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2018,
+   "population": 106919
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2018,
+   "population": 105047
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2018,
+   "population": 104577
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2018,
+   "population": 101543
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2018,
+   "population": 97187
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2018,
+   "population": 95836
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2018,
+   "population": 91278
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2018,
+   "population": 90148
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2018,
+   "population": 94854
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2018,
+   "population": 89237
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2018,
+   "population": 85642
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2018,
+   "population": 88288
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2018,
+   "population": 81689
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2018,
+   "population": 81806
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2018,
+   "population": 78394
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2018,
+   "population": 78031
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2018,
+   "population": 78860
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2018,
+   "population": 71952
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2018,
+   "population": 72171
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2018,
+   "population": 70341
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2018,
+   "population": 67211
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2018,
+   "population": 48207
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2018,
+   "population": 50382
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2018,
+   "population": 48382
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2018,
+   "population": 45701
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2018,
+   "population": 23655
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAI MAI",
+   "year": 2019,
+   "population": 206278
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAM WA",
+   "year": 2019,
+   "population": 202094
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHAE",
+   "year": 2019,
+   "population": 193491
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHEN",
+   "year": 2019,
+   "population": 189000
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHUN THIAN",
+   "year": 2019,
+   "population": 185824
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PRAWET",
+   "year": 2019,
+   "population": 180769
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT KRABANG",
+   "year": 2019,
+   "population": 177769
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG CHOK",
+   "year": 2019,
+   "population": 176022
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DON MUEANG",
+   "year": 2019,
+   "population": 170021
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "CHATUCHAK",
+   "year": 2019,
+   "population": 156605
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "NONG KHAEM",
+   "year": 2019,
+   "population": 156354
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Chomthong",
+   "year": 2019,
+   "population": 150108
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KAPI",
+   "year": 2019,
+   "population": 146108
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "MIN BURI",
+   "year": 2019,
+   "population": 142586
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BUENG KUM",
+   "year": 2019,
+   "population": 142237
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG SUE",
+   "year": 2019,
+   "population": 126310
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHASI CHAROEN",
+   "year": 2019,
+   "population": 126160
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SUAN LUANG",
+   "year": 2019,
+   "population": 124048
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THUNG KHRU",
+   "year": 2019,
+   "population": 123048
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DIN DAENG",
+   "year": 2019,
+   "population": 119150
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAT PHRAO",
+   "year": 2019,
+   "population": 118574
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WANG THONG LANG",
+   "year": 2019,
+   "population": 109653
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK NOI",
+   "year": 2019,
+   "population": 107732
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THON BURI",
+   "year": 2019,
+   "population": 106049
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG BON",
+   "year": 2019,
+   "population": 105684
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "TALING CHAN",
+   "year": 2019,
+   "population": 104779
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "LAK SI",
+   "year": 2019,
+   "population": 104285
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "Klongtoey",
+   "year": 2019,
+   "population": 101244
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHAN NA YAO",
+   "year": 2019,
+   "population": 97095
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAPHAN SUNG",
+   "year": 2019,
+   "population": 96059
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG PHLAT",
+   "year": 2019,
+   "population": 90869
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG NA",
+   "year": 2019,
+   "population": 90125
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "DUSIT",
+   "year": 2019,
+   "population": 89769
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA KHANONG",
+   "year": 2019,
+   "population": 88998
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "WATTHANA",
+   "year": 2019,
+   "population": 87225
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG KHO LAEM",
+   "year": 2019,
+   "population": 86898
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "HUAI KHWANG",
+   "year": 2019,
+   "population": 84340
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RAT BURANA",
+   "year": 2019,
+   "population": 80509
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "THAWI WATTHANA",
+   "year": 2019,
+   "population": 78548
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "YAN NAWA",
+   "year": 2019,
+   "population": 77814
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SATHON",
+   "year": 2019,
+   "population": 77773
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "RATCHATHEWI",
+   "year": 2019,
+   "population": 72568
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "KHLONG SAN",
+   "year": 2019,
+   "population": 71197
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHAYA THAI",
+   "year": 2019,
+   "population": 69382
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANGKOK YAI",
+   "year": 2019,
+   "population": 66152
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "BANG RAK",
+   "year": 2019,
+   "population": 48227
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PHRA NAKHON",
+   "year": 2019,
+   "population": 47701
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "PATHUM WAN",
+   "year": 2019,
+   "population": 47085
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "POM PRAP SATTRU PHAI",
+   "year": 2019,
+   "population": 43485
+ },
+ {
+   "province": "bangkok",
+   "amphoe": "SAMPHANTHAWONG",
+   "year": 2019,
+   "population": 22463
+ }
+]
